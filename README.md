@@ -7,4 +7,4 @@ konfigurasi jeda makro di host_config.txt line 2<br>
 konfigurasi db di db_config.txt<br>
 taroh shortcut app finger di folder yang sama dengan nama After.lnk (Replace File yang ada)<br>
 <br>
-silahkan download di sini https://drive.google.com/file/d/1Qcc9v6eTAzxXk5FjxGKLS3M_uaE2vDiq/view?usp=sharing
+silahkan download di sini https://drive.google.com/file/d/1ORuhyEBFL5PMPxY_G6Fd-EHpuDcSEN3W/view?usp=drive_link
